@@ -1,0 +1,9 @@
+.done{
+    text-decoration: line-through;
+}
+
+#app {
+    width: 50%;
+    margin: auto;
+
+}
